@@ -1,0 +1,16 @@
+GET /psd2/apis?field_categories_target_id[7]=7&field_categories_target_id[15]=15 HTTP/2
+Host: developer.sandbox.payoneer.com
+Cookie: fs_uid=#ZXXC9#62b272a0-badc-4219-a886-3d212d12adef:8a4152c8-cd19-4d6c-bf52-c6858b244f30:1701202031226::2#/1732738027; _ga=GA1.1.679260394.1701202037; _gid=GA1.2.522178014.1701202037; isRefreshedGeoData=true; device_country=US; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Nov+28+2023+22%3A11%3A31+GMT%2B0000+(Coordinated+Universal+Time)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.payoneer.com%2F&groups=C0001%3A1%2CGA%3A1%2CC0002%3A1%2CC0003%3A1%2CBG23%3A1%2CC0005%3A1%2CC0004%3A1; _gcl_au=1.1.1700693055.1701209491; _ga_G4G3RX5S55=GS1.1.1701209492.1.0.1701209502.0.0.0; _ga_VVB2N9SN0C=GS1.1.1701209494.1.0.1701209503.0.0.0; _rdt_uuid=1701209499709.60a6689b-0d83-41b0-9e98-08463ea52207; _uetsid=1b28a6e08e3b11ee945e59749836e660; _uetvid=1b28a5b08e3b11ee8b350fde78be725c; _tt_enable_cookie=1; _ttp=uqPG3CHl6Ii5JR5b7HFtxMWqykK; _pxvid=37cd0ac9-8e3b-11ee-9cb4-e42684c1bbdc; rbzid=ePfLMGHafpmLQyzPwPSFsdfk0rnvvkbizleMYEJG6AQakNG3PAGx76tgXOY90WQUdoFH2BeboI146jewddeeqInVqBy7hC3zGyOj59PUGGgEEnfb2Zb2fL7inz9j20Ho8xjbHV6zVAZWiBntYhGmdMySKCuvMuh0QQVISUA8caQ=; rbzsessionid=2eadcef32d52975e1aa0dad53aff2db0; GCLB=CNXysoCivu_toAE; rbzid=C8pX6nG9j3fu8K9UkT4BPozOPBYsprxuebamMuSjRGleyk7N7+agykPT9NKmv2YOv8ah4ADfVizavAVC+nBAy41lUzOcmALtN6t3s+ORUGXJWTwVLy/yrPH91kUkCOfj6+o4IB/SUHnrE3N2lB++JB233l8ZdxpVRzm3+m+bL78=
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/115.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Te: trailers
+Connection: close
+
